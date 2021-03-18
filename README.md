@@ -1,3 +1,12 @@
+<p align="left"> 
+ <img src=https://komarev.com/ghpvc/?username=rohan2810 alt=rohan2810/> 
+ &nbsp; 
+ 
+  
+  <a href="https://www.linkedin.com/in/rohan-surana/">
+    <img src="https://img.shields.io/badge/Rohan-Surana-blue?style=flat&logo=linkedin">
+  </a> &nbsp;   
+
 ### Hi there, I'm [Rohan!](https://www.linkedin.com/in/rohan-surana/) 👋
 
 <!--
@@ -24,10 +33,10 @@ Here are some ideas to get you started:
 </a>
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/rohan2810/rohan2810">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan2810&hide=issues,prs&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" alt="Rohan's GitHub stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/rohan2810/rohan2810">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan2810&layout=compact&exclude_repo=NYU-AI-Winter-School&theme=dracula" />
 </a>
 
