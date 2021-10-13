@@ -7,11 +7,11 @@
  &nbsp; 
  
   
-  <a href="https://www.linkedin.com/in/rohan-surana/">
+  <a href="https://www.linkedin.com/in/~rsurana/">
     <img src="https://img.shields.io/badge/Rohan-Surana-blue?style=flat&logo=linkedin">
   </a> &nbsp;   
 
-### Hi there, I'm [Rohan!](https://www.linkedin.com/in/rohan-surana/) 👋
+### Hi there, I'm [Rohan!](https://www.linkedin.com/in/~rsurana/) 👋
 
 <!--
 **rohan2810/rohan2810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
