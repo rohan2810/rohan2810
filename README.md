@@ -1,3 +1,7 @@
+## help a 🐍 is eating 🧈 my contributions
+![snake gif](https://github.com/rohan2810/rohan2810/blob/output/github-contribution-grid-snake.gif)
+
+
 <p align="left"> 
  <img src=https://komarev.com/ghpvc/?username=rohan2810 alt=rohan2810/> 
  &nbsp; 
